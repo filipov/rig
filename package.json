@@ -13,5 +13,5 @@
     "react": "17.0.1",
     "react-dom": "17.0.1"
   },
-  "engines" : { "node" : ">=14" }
+  "engines" : { "node" : "=14" }
 }
