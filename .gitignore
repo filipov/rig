@@ -34,3 +34,5 @@ yarn-error.log*
 .vercel
 /deployments/node/interpreter/
 /deployments/docker/dev/docker-compose.yml
+
+.idea
