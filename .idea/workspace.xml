@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="630f5ab5-7660-45fc-a4ac-42453dc25b48" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/components/svg.jsx" afterDir="false" />
+    <list default="true" id="630f5ab5-7660-45fc-a4ac-42453dc25b48" name="Default Changelist" comment="Init">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,8 +86,16 @@
       <workItem from="1608632337000" duration="110000" />
       <workItem from="1608634054455" duration="621000" />
       <workItem from="1608638207476" duration="5688000" />
-      <workItem from="1608672951702" duration="1489000" />
+      <workItem from="1608672951702" duration="1942000" />
     </task>
+    <task id="LOCAL-00001" summary="Init">
+      <created>1608674574489</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1608674574489</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -103,5 +112,9 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Init" />
+    <option name="LAST_COMMIT_MESSAGE" value="Init" />
   </component>
 </project>
